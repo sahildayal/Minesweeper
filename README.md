@@ -14,3 +14,10 @@ Choosing one of the square
 
 
 ![MinesweeperG](https://github.com/sahildayal/Minesweeper/blob/main/m2.png)
+
+Taking a hint! It shows a light color background of the square!
+
+
+
+
+![MinesweeperGg](https://github.com/sahildayal/Minesweeper/blob/main/m_hint.png)
