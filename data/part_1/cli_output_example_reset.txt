@@ -1,0 +1,58 @@
+Mines: 2
+Commands:
+        help - this help message
+        pick <row> <col> - uncovers cell a <row> <col>
+        hint - displays a safe selection
+        reset - resets to a new game
+        quit - quits the game
+
+----
+----
+----
+----
+
+Moves: 0
+
+Enter command: pick 1 1
+----
+-1--
+----
+----
+
+Moves: 1
+
+Enter command: pick 3 3
+----
+-1--
+----
+---0
+
+Moves: 2
+
+Enter command: reset
+Resetting to a new game.
+
+----
+----
+----
+----
+
+Moves: 0
+
+Enter command: pick 1 1
+----
+-1--
+----
+----
+
+Moves: 1
+
+Enter command: pick 2 2
+----
+-1--
+--1-
+----
+
+Moves: 2
+
+Enter command: quit
